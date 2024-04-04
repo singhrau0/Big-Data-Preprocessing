@@ -1,0 +1,892 @@
+PassengerId,Survived,Pclass,Name,Gender,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+,,,,,,,,,,,
+2.0,1.0,1.0,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female$$CClearning work is going on,38.0,1.0,0.0,PC 17599,71.2833,C85,C
+3.0,1.0,3.0,"Heikkinen, Miss. Laina",female$$SClearning work is going on,26.0,0.0,0.0,STON/O2. 3101282,7.925,,S
+4.0,1.0,1.0,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female$$SClearning work is going on,35.0,1.0,0.0,113803,53.1,C123,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+9.0,1.0,3.0,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female$$SClearning work is going on,27.0,0.0,2.0,347742,11.1333,,S
+10.0,1.0,2.0,"Nasser, Mrs. Nicholas (Adele Achem)",female$$CClearning work is going on,14.0,1.0,0.0,237736,30.0708,,C
+11.0,1.0,3.0,"Sandstrom, Miss. Marguerite Rut",female$$SClearning work is going on,4.0,1.0,1.0,PP 9549,16.7,G6,S
+12.0,1.0,1.0,"Bonnell, Miss. Elizabeth",female$$SClearning work is going on,58.0,0.0,0.0,113783,26.55,C103,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+16.0,1.0,2.0,"Hewlett, Mrs. (Mary D Kingcome) ",female$$SClearning work is going on,55.0,0.0,0.0,248706,16.0,,S
+,,,,,,,,,,,
+18.0,1.0,2.0,"Williams, Mr. Charles Eugene",male$$SClearning work is going on,,0.0,0.0,244373,13.0,,S
+,,,,,,,,,,,
+20.0,1.0,3.0,"Masselmani, Mrs. Fatima",female$$CClearning work is going on,,0.0,0.0,2649,7.225,,C
+,,,,,,,,,,,
+22.0,1.0,2.0,"Beesley, Mr. Lawrence",male$$SClearning work is going on,34.0,0.0,0.0,248698,13.0,D56,S
+23.0,1.0,3.0,"McGowan, Miss. Anna ""Annie""",female$$QClearning work is going on,15.0,0.0,0.0,330923,8.0292,,Q
+24.0,1.0,1.0,"Sloper, Mr. William Thompson",male$$SClearning work is going on,28.0,0.0,0.0,113788,35.5,A6,S
+,,,,,,,,,,,
+26.0,1.0,3.0,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female$$SClearning work is going on,38.0,1.0,5.0,347077,31.3875,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+29.0,1.0,3.0,"O'Dwyer, Miss. Ellen ""Nellie""",female$$QClearning work is going on,,0.0,0.0,330959,7.8792,,Q
+,,,,,,,,,,,
+,,,,,,,,,,,
+32.0,1.0,1.0,"Spencer, Mrs. William Augustus (Marie Eugenie)",female$$CClearning work is going on,,1.0,0.0,PC 17569,146.5208,B78,C
+33.0,1.0,3.0,"Glynn, Miss. Mary Agatha",female$$QClearning work is going on,,0.0,0.0,335677,7.75,,Q
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+37.0,1.0,3.0,"Mamee, Mr. Hanna",male$$CClearning work is going on,,0.0,0.0,2677,7.2292,,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+40.0,1.0,3.0,"Nicola-Yarred, Miss. Jamila",female$$CClearning work is going on,14.0,1.0,0.0,2651,11.2417,,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+44.0,1.0,2.0,"Laroche, Miss. Simonne Marie Anne Andree",female$$CClearning work is going on,3.0,1.0,2.0,SC/Paris 2123,41.5792,,C
+45.0,1.0,3.0,"Devaney, Miss. Margaret Delia",female$$QClearning work is going on,19.0,0.0,0.0,330958,7.8792,,Q
+,,,,,,,,,,,
+,,,,,,,,,,,
+48.0,1.0,3.0,"O'Driscoll, Miss. Bridget",female$$QClearning work is going on,,0.0,0.0,14311,7.75,,Q
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+53.0,1.0,1.0,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female$$CClearning work is going on,49.0,1.0,0.0,PC 17572,76.7292,D33,C
+54.0,1.0,2.0,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female$$SClearning work is going on,29.0,1.0,0.0,2926,26.0,,S
+,,,,,,,,,,,
+56.0,1.0,1.0,"Woolner, Mr. Hugh",male$$SClearning work is going on,,0.0,0.0,19947,35.5,C52,S
+57.0,1.0,2.0,"Rugg, Miss. Emily",female$$SClearning work is going on,21.0,0.0,0.0,C.A. 31026,10.5,,S
+,,,,,,,,,,,
+59.0,1.0,2.0,"West, Miss. Constance Mirium",female$$SClearning work is going on,5.0,1.0,2.0,C.A. 34651,27.75,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+62.0,1.0,1.0,"Icard, Miss. Amelie",,38.0,0.0,0.0,113572,80.0,B28,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+66.0,1.0,3.0,"Moubarek, Master. Gerios",male$$CClearning work is going on,,1.0,1.0,2661,15.2458,,C
+67.0,1.0,2.0,"Nye, Mrs. (Elizabeth Ramell)",female$$SClearning work is going on,29.0,0.0,0.0,C.A. 29395,10.5,F33,S
+,,,,,,,,,,,
+69.0,1.0,3.0,"Andersson, Miss. Erna Alexandra",female$$SClearning work is going on,17.0,4.0,2.0,3101281,7.925,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+75.0,1.0,3.0,"Bing, Mr. Lee",male$$SClearning work is going on,32.0,0.0,0.0,1601,56.4958,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+79.0,1.0,2.0,"Caldwell, Master. Alden Gates",male$$SClearning work is going on,0.83,0.0,2.0,248738,29.0,,S
+80.0,1.0,3.0,"Dowdell, Miss. Elizabeth",female$$SClearning work is going on,30.0,0.0,0.0,364516,12.475,,S
+,,,,,,,,,,,
+82.0,1.0,3.0,"Sheerlinck, Mr. Jan Baptist",male$$SClearning work is going on,29.0,0.0,0.0,345779,9.5,,S
+83.0,1.0,3.0,"McDermott, Miss. Brigdet Delia",female$$QClearning work is going on,,0.0,0.0,330932,7.7875,,Q
+,,,,,,,,,,,
+85.0,1.0,2.0,"Ilett, Miss. Bertha",female$$SClearning work is going on,17.0,0.0,0.0,SO/C 14885,10.5,,S
+86.0,1.0,3.0,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female$$SClearning work is going on,33.0,3.0,0.0,3101278,15.85,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+89.0,1.0,1.0,"Fortune, Miss. Mabel Helen",female$$SClearning work is going on,23.0,3.0,2.0,19950,263.0,C23 C25 C27,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+98.0,1.0,1.0,"Greenfield, Mr. William Bertram",male$$CClearning work is going on,23.0,0.0,1.0,PC 17759,63.3583,D10 D12,C
+99.0,1.0,2.0,"Doling, Mrs. John T (Ada Julia Bone)",female$$SClearning work is going on,34.0,0.0,1.0,231919,23.0,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+107.0,1.0,3.0,"Salkjelsvik, Miss. Anna Kristine",female$$SClearning work is going on,21.0,0.0,0.0,343120,7.65,,S
+108.0,1.0,3.0,"Moss, Mr. Albert Johan",male$$SClearning work is going on,,0.0,0.0,312991,7.775,,S
+,,,,,,,,,,,
+110.0,1.0,3.0,"Moran, Miss. Bertha",female$$QClearning work is going on,,1.0,0.0,371110,24.15,,Q
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+124.0,1.0,2.0,"Webber, Miss. Susan",female$$SClearning work is going on,32.5,0.0,0.0,27267,13.0,E101,S
+,,,,,,,,,,,
+126.0,1.0,3.0,"Nicola-Yarred, Master. Elias",male$$CClearning work is going on,12.0,1.0,0.0,2651,11.2417,,C
+,,,,,,,,,,,
+128.0,1.0,3.0,"Madsen, Mr. Fridtjof Arne",male$$SClearning work is going on,24.0,0.0,0.0,C 17369,7.1417,,S
+129.0,1.0,3.0,"Peter, Miss. Anna",female$$CClearning work is going on,,1.0,1.0,2668,22.3583,F E69,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+134.0,1.0,2.0,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female$$SClearning work is going on,29.0,1.0,0.0,228414,26.0,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+137.0,1.0,1.0,"Newsom, Miss. Helen Monypeny",female$$SClearning work is going on,19.0,0.0,2.0,11752,26.2833,D47,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+142.0,1.0,3.0,"Nysten, Miss. Anna Sofia",female$$SClearning work is going on,22.0,0.0,0.0,347081,7.75,,S
+143.0,1.0,3.0,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female$$SClearning work is going on,24.0,1.0,0.0,STON/O2. 3101279,15.85,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+147.0,1.0,3.0,"Andersson, Mr. August Edvard (""Wennerstrom"")",male$$SClearning work is going on,27.0,0.0,0.0,350043,7.7958,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+152.0,1.0,1.0,"Pears, Mrs. Thomas (Edith Wearne)",female$$SClearning work is going on,22.0,1.0,0.0,113776,66.6,C2,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+157.0,1.0,3.0,"Gilnagh, Miss. Katherine ""Katie""",female$$QClearning work is going on,16.0,0.0,0.0,35851,7.7333,,Q
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+162.0,1.0,2.0,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female$$SClearning work is going on,40.0,0.0,0.0,C.A. 33595,15.75,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+166.0,1.0,3.0,"Goldsmith, Master. Frank John William ""Frankie""",male$$SClearning work is going on,9.0,0.0,2.0,363291,20.525,,S
+167.0,1.0,1.0,"Chibnall, Mrs. (Edith Martha Bowerman)",female$$SClearning work is going on,,0.0,1.0,113505,55.0,E33,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+173.0,1.0,3.0,"Johnson, Miss. Eleanor Ileen",female$$SClearning work is going on,1.0,1.0,1.0,347742,11.1333,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+184.0,1.0,2.0,"Becker, Master. Richard F",male$$SClearning work is going on,1.0,2.0,1.0,230136,39.0,F4,S
+185.0,1.0,3.0,"Kink-Heilmann, Miss. Luise Gretchen",female$$SClearning work is going on,4.0,0.0,2.0,315153,22.025,,S
+,,,,,,,,,,,
+187.0,1.0,3.0,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female$$QClearning work is going on,,1.0,0.0,370365,15.5,,Q
+188.0,1.0,1.0,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male$$SClearning work is going on,45.0,0.0,0.0,111428,26.55,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+191.0,1.0,2.0,"Pinsky, Mrs. (Rosa)",female$$SClearning work is going on,32.0,0.0,0.0,234604,13.0,,S
+,,,,,,,,,,,
+193.0,1.0,3.0,"Andersen-Jensen, Miss. Carla Christine Nielsine",female$$SClearning work is going on,19.0,1.0,0.0,350046,7.8542,,S
+194.0,1.0,2.0,"Navratil, Master. Michel M",male$$SClearning work is going on,3.0,1.0,1.0,230080,26.0,F2,S
+195.0,1.0,1.0,"Brown, Mrs. James Joseph (Margaret Tobin)",female$$CClearning work is going on,44.0,0.0,0.0,PC 17610,27.7208,B4,C
+196.0,1.0,1.0,"Lurette, Miss. Elise",female$$CClearning work is going on,58.0,0.0,0.0,PC 17569,146.5208,B80,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+199.0,1.0,3.0,"Madigan, Miss. Margaret ""Maggie""",female$$QClearning work is going on,,0.0,0.0,370370,7.75,,Q
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+205.0,1.0,3.0,"Cohen, Mr. Gurshon ""Gus""",male$$SClearning work is going on,18.0,0.0,0.0,A/5 3540,8.05,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+208.0,1.0,3.0,"Albimona, Mr. Nassef Cassem",male$$CClearning work is going on,26.0,0.0,0.0,2699,18.7875,,C
+209.0,1.0,3.0,"Carr, Miss. Helen ""Ellen""",female$$QClearning work is going on,16.0,0.0,0.0,367231,7.75,,Q
+210.0,1.0,1.0,"Blank, Mr. Henry",male$$CClearning work is going on,40.0,0.0,0.0,112277,31.0,A31,C
+,,,,,,,,,,,
+212.0,1.0,2.0,"Cameron, Miss. Clear Annie",female$$SClearning work is going on,35.0,0.0,0.0,F.C.C. 13528,21.0,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+216.0,1.0,1.0,"Newell, Miss. Madeleine",female$$CClearning work is going on,31.0,1.0,0.0,35273,113.275,D36,C
+217.0,1.0,3.0,"Honkanen, Miss. Eliina",female$$SClearning work is going on,27.0,0.0,0.0,STON/O2. 3101283,7.925,,S
+,,,,,,,,,,,
+219.0,1.0,1.0,"Bazzani, Miss. Albina",female$$CClearning work is going on,32.0,0.0,0.0,11813,76.2917,D15,C
+,,,,,,,,,,,
+221.0,1.0,3.0,"Sunderland, Mr. Victor Francis",male$$SClearning work is going on,16.0,0.0,0.0,SOTON/OQ 392089,8.05,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+225.0,1.0,1.0,"Hoyt, Mr. Frederick Maxfield",male$$SClearning work is going on,38.0,1.0,0.0,19943,90.0,C93,S
+,,,,,,,,,,,
+227.0,1.0,2.0,"Mellors, Mr. William John",male$$SClearning work is going on,19.0,0.0,0.0,SW/PP 751,10.5,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+231.0,1.0,1.0,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female$$SClearning work is going on,35.0,1.0,0.0,36973,83.475,C83,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+234.0,1.0,3.0,"Asplund, Miss. Lillian Gertrud",female$$SClearning work is going on,5.0,4.0,2.0,347077,31.3875,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+238.0,1.0,2.0,"Collyer, Miss. Marjorie ""Lottie""",female$$SClearning work is going on,8.0,0.0,2.0,C.A. 31921,26.25,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+242.0,1.0,3.0,"Murphy, Miss. Katherine ""Kate""",female$$QClearning work is going on,,1.0,0.0,367230,15.5,,Q
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+248.0,1.0,2.0,"Hamalainen, Mrs. William (Anna)",female$$SClearning work is going on,24.0,0.0,2.0,250649,14.5,,S
+249.0,1.0,1.0,"Beckwith, Mr. Richard Leonard",male$$SClearning work is going on,37.0,1.0,1.0,11751,52.5542,D35,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+256.0,1.0,3.0,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female$$CClearning work is going on,29.0,0.0,2.0,2650,15.2458,,C
+257.0,1.0,1.0,"Thorne, Mrs. Gertrude Maybelle",female$$CClearning work is going on,,0.0,0.0,PC 17585,79.2,,C
+258.0,1.0,1.0,"Cherry, Miss. Gladys",female$$SClearning work is going on,30.0,0.0,0.0,110152,86.5,B77,S
+259.0,1.0,1.0,"Ward, Miss. Anna",female$$CClearning work is going on,35.0,0.0,0.0,PC 17755,512.3292,,C
+260.0,1.0,2.0,"Parrish, Mrs. (Lutie Davis)",female$$SClearning work is going on,50.0,0.0,1.0,230433,26.0,,S
+,,,,,,,,,,,
+262.0,1.0,3.0,"Asplund, Master. Edvin Rojj Felix",male$$SClearning work is going on,3.0,4.0,2.0,347077,31.3875,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+268.0,1.0,3.0,"Persson, Mr. Ernst Ulrik",male$$SClearning work is going on,25.0,1.0,0.0,347083,7.775,,S
+269.0,1.0,1.0,"Graham, Mrs. William Thompson (Edith Junkins)",female$$SClearning work is going on,58.0,0.0,1.0,PC 17582,153.4625,C125,S
+270.0,1.0,1.0,"Bissette, Miss. Amelia",female$$SClearning work is going on,35.0,0.0,0.0,PC 17760,135.6333,C99,S
+,,,,,,,,,,,
+272.0,1.0,3.0,"Tornquist, Mr. William Henry",male$$SClearning work is going on,25.0,0.0,0.0,LINE,0.0,,S
+273.0,1.0,2.0,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female$$SClearning work is going on,41.0,0.0,1.0,250644,19.5,,S
+,,,,,,,,,,,
+275.0,1.0,3.0,"Healy, Miss. Hanora ""Nora""",female$$QClearning work is going on,,0.0,0.0,370375,7.75,,Q
+276.0,1.0,1.0,"Andrews, Miss. Kornelia Theodosia",female$$SClearning work is going on,63.0,1.0,0.0,13502,77.9583,D7,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+280.0,1.0,3.0,"Abbott, Mrs. Stanton (Rosa Hunt)",female$$SClearning work is going on,35.0,1.0,1.0,C.A. 2673,20.25,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+284.0,1.0,3.0,"Dorking, Mr. Edward Arthur",male$$SClearning work is going on,19.0,0.0,0.0,A/5. 10482,8.05,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+287.0,1.0,3.0,"de Mulder, Mr. Theodore",male$$SClearning work is going on,30.0,0.0,0.0,345774,9.5,,S
+,,,,,,,,,,,
+289.0,1.0,2.0,"Hosono, Mr. Masabumi",male$$SClearning work is going on,42.0,0.0,0.0,237798,13.0,,S
+290.0,1.0,3.0,"Connolly, Miss. Kate",female$$QClearning work is going on,22.0,0.0,0.0,370373,7.75,,Q
+291.0,1.0,1.0,"Barber, Miss. Ellen ""Nellie""",female$$SClearning work is going on,26.0,0.0,0.0,19877,78.85,,S
+292.0,1.0,1.0,"Bishop, Mrs. Dickinson H (Helen Walton)",female$$CClearning work is going on,19.0,1.0,0.0,11967,91.0792,B49,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+299.0,1.0,1.0,"Saalfeld, Mr. Adolphe",male$$SClearning work is going on,,0.0,0.0,19988,30.5,C106,S
+300.0,1.0,1.0,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female$$CClearning work is going on,50.0,0.0,1.0,PC 17558,247.5208,B58 B60,C
+301.0,1.0,3.0,"Kelly, Miss. Anna Katherine ""Annie Kate""",female$$QClearning work is going on,,0.0,0.0,9234,7.75,,Q
+302.0,1.0,3.0,"McCoy, Mr. Bernard",male$$QClearning work is going on,,2.0,0.0,367226,23.25,,Q
+,,,,,,,,,,,
+304.0,1.0,2.0,"Keane, Miss. Nora A",female$$QClearning work is going on,,0.0,0.0,226593,12.35,E101,Q
+,,,,,,,,,,,
+306.0,1.0,1.0,"Allison, Master. Hudson Trevor",male$$SClearning work is going on,0.92,1.0,2.0,113781,151.55,C22 C26,S
+307.0,1.0,1.0,"Fleming, Miss. Margaret",female$$CClearning work is going on,,0.0,0.0,17421,110.8833,,C
+308.0,1.0,1.0,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female$$CClearning work is going on,17.0,1.0,0.0,PC 17758,108.9,C65,C
+,,,,,,,,,,,
+310.0,1.0,1.0,"Francatelli, Miss. Laura Mabel",female$$CClearning work is going on,30.0,0.0,0.0,PC 17485,56.9292,E36,C
+311.0,1.0,1.0,"Hays, Miss. Margaret Bechstein",female$$CClearning work is going on,24.0,0.0,0.0,11767,83.1583,C54,C
+312.0,1.0,1.0,"Ryerson, Miss. Emily Borie",female$$CClearning work is going on,18.0,2.0,2.0,PC 17608,262.375,B57 B59 B63 B66,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+316.0,1.0,3.0,"Nilsson, Miss. Helmina Josefina",female$$SClearning work is going on,26.0,0.0,0.0,347470,7.8542,,S
+317.0,1.0,2.0,"Kantor, Mrs. Sinai (Miriam Sternin)",female$$SClearning work is going on,24.0,1.0,0.0,244367,26.0,,S
+,,,,,,,,,,,
+319.0,1.0,1.0,"Wick, Miss. Mary Natalie",female$$SClearning work is going on,31.0,0.0,2.0,36928,164.8667,C7,S
+320.0,1.0,1.0,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female$$CClearning work is going on,40.0,1.0,1.0,16966,134.5,E34,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+323.0,1.0,2.0,"Slayter, Miss. Hilda Mary",female$$QClearning work is going on,30.0,0.0,0.0,234818,12.35,,Q
+324.0,1.0,2.0,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female$$SClearning work is going on,22.0,1.0,1.0,248738,29.0,,S
+,,,,,,,,,,,
+326.0,1.0,1.0,"Young, Miss. Marie Grice",female$$CClearning work is going on,36.0,0.0,0.0,PC 17760,135.6333,C32,C
+,,,,,,,,,,,
+328.0,1.0,2.0,"Ball, Mrs. (Ada E Hall)",female$$SClearning work is going on,36.0,0.0,0.0,28551,13.0,D,S
+329.0,1.0,3.0,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female$$SClearning work is going on,31.0,1.0,1.0,363291,20.525,,S
+330.0,1.0,1.0,"Hippach, Miss. Jean Gertrude",female$$CClearning work is going on,16.0,0.0,1.0,111361,57.9792,B18,C
+331.0,1.0,3.0,"McCoy, Miss. Agnes",female$$QClearning work is going on,,2.0,0.0,367226,23.25,,Q
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+335.0,1.0,1.0,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female$$SClearning work is going on,,1.0,0.0,PC 17611,133.65,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+338.0,1.0,1.0,"Burns, Miss. Elizabeth Margaret",female$$CClearning work is going on,41.0,0.0,0.0,16966,134.5,E40,C
+339.0,1.0,3.0,"Dahl, Mr. Karl Edwart",male$$SClearning work is going on,45.0,0.0,0.0,7598,8.05,,S
+,,,,,,,,,,,
+341.0,1.0,2.0,"Navratil, Master. Edmond Roger",male$$SClearning work is going on,2.0,1.0,1.0,230080,26.0,F2,S
+342.0,1.0,1.0,"Fortune, Miss. Alice Elizabeth",female$$SClearning work is going on,24.0,3.0,2.0,19950,263.0,C23 C25 C27,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+346.0,1.0,2.0,"Brown, Miss. Amelia ""Mildred""",female$$SClearning work is going on,24.0,0.0,0.0,248733,13.0,F33,S
+347.0,1.0,2.0,"Smith, Miss. Marion Elsie",female$$SClearning work is going on,40.0,0.0,0.0,31418,13.0,,S
+348.0,1.0,3.0,"Davison, Mrs. Thomas Henry (Mary E Finck)",female$$SClearning work is going on,,1.0,0.0,386525,16.1,,S
+349.0,1.0,3.0,"Coutts, Master. William Loch ""William""",male$$SClearning work is going on,3.0,1.0,1.0,C.A. 37671,15.9,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+357.0,1.0,1.0,"Bowerman, Miss. Elsie Edith",female$$SClearning work is going on,22.0,0.0,1.0,113505,55.0,E33,S
+,,,,,,,,,,,
+359.0,1.0,3.0,"McGovern, Miss. Mary",female$$QClearning work is going on,,0.0,0.0,330931,7.8792,,Q
+360.0,1.0,3.0,"Mockler, Miss. Helen Mary ""Ellie""",female$$QClearning work is going on,,0.0,0.0,330980,7.8792,,Q
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+367.0,1.0,1.0,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female$$CClearning work is going on,60.0,1.0,0.0,110813,75.25,D37,C
+368.0,1.0,3.0,"Moussa, Mrs. (Mantoura Boulos)",female$$CClearning work is going on,,0.0,0.0,2626,7.2292,,C
+369.0,1.0,3.0,"Jermyn, Miss. Annie",female$$QClearning work is going on,,0.0,0.0,14313,7.75,,Q
+370.0,1.0,1.0,"Aubart, Mme. Leontine Pauline",female$$CClearning work is going on,24.0,0.0,0.0,PC 17477,69.3,B35,C
+371.0,1.0,1.0,"Harder, Mr. George Achilles",male$$CClearning work is going on,25.0,1.0,0.0,11765,55.4417,E50,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+376.0,1.0,1.0,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female$$CClearning work is going on,,1.0,0.0,PC 17604,82.1708,,C
+377.0,1.0,3.0,"Landergren, Miss. Aurora Adelia",female$$SClearning work is going on,22.0,0.0,0.0,C 7077,7.25,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+381.0,1.0,1.0,"Bidois, Miss. Rosalie",female$$CClearning work is going on,42.0,0.0,0.0,PC 17757,227.525,,C
+382.0,1.0,3.0,"Nakid, Miss. Maria (""Mary"")",female$$CClearning work is going on,1.0,0.0,2.0,2653,15.7417,,C
+,,,,,,,,,,,
+384.0,1.0,1.0,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female$$SClearning work is going on,35.0,1.0,0.0,113789,52.0,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+388.0,1.0,2.0,"Buss, Miss. Kate",female$$SClearning work is going on,36.0,0.0,0.0,27849,13.0,,S
+,,,,,,,,,,,
+390.0,1.0,2.0,"Lehmann, Miss. Bertha",female$$CClearning work is going on,17.0,0.0,0.0,SC 1748,12.0,,C
+391.0,1.0,1.0,"Carter, Mr. William Ernest",male$$SClearning work is going on,36.0,1.0,2.0,113760,120.0,B96 B98,S
+392.0,1.0,3.0,"Jansson, Mr. Carl Olof",male$$SClearning work is going on,21.0,0.0,0.0,350034,7.7958,,S
+,,,,,,,,,,,
+394.0,1.0,1.0,"Newell, Miss. Marjorie",female$$CClearning work is going on,23.0,1.0,0.0,35273,113.275,D36,C
+395.0,1.0,3.0,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female$$SClearning work is going on,24.0,0.0,2.0,PP 9549,16.7,G6,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+400.0,1.0,2.0,"Trout, Mrs. William H (Jessie L)",female$$SClearning work is going on,28.0,0.0,0.0,240929,12.65,,S
+401.0,1.0,3.0,"Niskanen, Mr. Juha",male$$SClearning work is going on,39.0,0.0,0.0,STON/O 2. 3101289,7.925,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+408.0,1.0,2.0,"Richards, Master. William Rowe",male$$SClearning work is going on,3.0,1.0,1.0,29106,18.75,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+413.0,1.0,1.0,"Minahan, Miss. Daisy E",female$$QClearning work is going on,33.0,1.0,0.0,19928,90.0,C78,Q
+,,,,,,,,,,,
+415.0,1.0,3.0,"Sundman, Mr. Johan Julian",male$$SClearning work is going on,44.0,0.0,0.0,STON/O 2. 3101269,7.925,,S
+,,,,,,,,,,,
+417.0,1.0,2.0,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female$$SClearning work is going on,34.0,1.0,1.0,28220,32.5,,S
+418.0,1.0,2.0,"Silven, Miss. Lyyli Karoliina",female$$SClearning work is going on,18.0,0.0,2.0,250652,13.0,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+427.0,1.0,2.0,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female$$SClearning work is going on,28.0,1.0,0.0,2003,26.0,,S
+428.0,1.0,2.0,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female$$SClearning work is going on,19.0,0.0,0.0,250655,26.0,,S
+,,,,,,,,,,,
+430.0,1.0,3.0,"Pickard, Mr. Berk (Berk Trembisky)",male$$SClearning work is going on,32.0,0.0,0.0,SOTON/O.Q. 392078,8.05,E10,S
+431.0,1.0,1.0,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male$$SClearning work is going on,28.0,0.0,0.0,110564,26.55,C52,S
+432.0,1.0,3.0,"Thorneycroft, Mrs. Percival (Florence Kate White)",female$$SClearning work is going on,,1.0,0.0,376564,16.1,,S
+433.0,1.0,2.0,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female$$SClearning work is going on,42.0,1.0,0.0,SC/AH 3085,26.0,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+436.0,1.0,1.0,"Carter, Miss. Lucile Polk",female$$SClearning work is going on,14.0,1.0,2.0,113760,120.0,B96 B98,S
+,,,,,,,,,,,
+438.0,1.0,2.0,"Richards, Mrs. Sidney (Emily Hocking)",female$$SClearning work is going on,24.0,2.0,3.0,29106,18.75,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+441.0,1.0,2.0,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female$$SClearning work is going on,45.0,1.0,1.0,F.C.C. 13529,26.25,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+444.0,1.0,2.0,"Reynaldo, Ms. Encarnacion",female$$SClearning work is going on,28.0,0.0,0.0,230434,13.0,,S
+445.0,1.0,3.0,"Johannesen-Bratthammer, Mr. Bernt",male$$SClearning work is going on,,0.0,0.0,65306,8.1125,,S
+446.0,1.0,1.0,"Dodge, Master. Washington",male$$SClearning work is going on,4.0,0.0,2.0,33638,81.8583,A34,S
+447.0,1.0,2.0,"Mellinger, Miss. Madeleine Violet",female$$SClearning work is going on,13.0,0.0,1.0,250644,19.5,,S
+448.0,1.0,1.0,"Seward, Mr. Frederic Kimber",male$$SClearning work is going on,34.0,0.0,0.0,113794,26.55,,S
+449.0,1.0,3.0,"Baclini, Miss. Marie Catherine",female$$CClearning work is going on,5.0,2.0,1.0,2666,19.2583,,C
+450.0,1.0,1.0,"Peuchen, Major. Arthur Godfrey",male$$SClearning work is going on,52.0,0.0,0.0,113786,30.5,C104,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+454.0,1.0,1.0,"Goldenberg, Mr. Samuel L",male$$CClearning work is going on,49.0,1.0,0.0,17453,89.1042,C92,C
+,,,,,,,,,,,
+456.0,1.0,3.0,"Jalsevac, Mr. Ivan",male$$CClearning work is going on,29.0,0.0,0.0,349240,7.8958,,C
+,,,,,,,,,,,
+458.0,1.0,1.0,"Kenyon, Mrs. Frederick R (Marion)",female$$SClearning work is going on,,1.0,0.0,17464,51.8625,D21,S
+459.0,1.0,2.0,"Toomey, Miss. Ellen",female$$SClearning work is going on,50.0,0.0,0.0,F.C.C. 13531,10.5,,S
+,,,,,,,,,,,
+461.0,1.0,1.0,"Anderson, Mr. Harry",male$$SClearning work is going on,48.0,0.0,0.0,19952,26.55,E12,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+470.0,1.0,3.0,"Baclini, Miss. Helene Barbara",female$$CClearning work is going on,0.75,2.0,1.0,2666,19.2583,,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+473.0,1.0,2.0,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female$$SClearning work is going on,33.0,1.0,2.0,C.A. 34651,27.75,,S
+474.0,1.0,2.0,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female$$CClearning work is going on,23.0,0.0,0.0,SC/AH Basle 541,13.7917,D,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+480.0,1.0,3.0,"Hirvonen, Miss. Hildur E",female$$SClearning work is going on,2.0,0.0,1.0,3101298,12.2875,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+484.0,1.0,3.0,"Turkula, Mrs. (Hedwig)",female$$SClearning work is going on,63.0,0.0,0.0,4134,9.5875,,S
+485.0,1.0,1.0,"Bishop, Mr. Dickinson H",male$$CClearning work is going on,25.0,1.0,0.0,11967,91.0792,B49,C
+,,,,,,,,,,,
+487.0,1.0,1.0,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female$$SClearning work is going on,35.0,1.0,0.0,19943,90.0,C93,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+490.0,1.0,3.0,"Coutts, Master. Eden Leslie ""Neville""",male$$SClearning work is going on,9.0,1.0,1.0,C.A. 37671,15.9,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+497.0,1.0,1.0,"Eustis, Miss. Elizabeth Mussey",female$$CClearning work is going on,54.0,1.0,0.0,36947,78.2667,D20,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+505.0,1.0,1.0,"Maioni, Miss. Roberta",female$$SClearning work is going on,16.0,0.0,0.0,110152,86.5,B79,S
+,,,,,,,,,,,
+507.0,1.0,2.0,"Quick, Mrs. Frederick Charles (Jane Richards)",female$$SClearning work is going on,33.0,0.0,2.0,26360,26.0,,S
+508.0,1.0,1.0,"Bradley, Mr. George (""George Arthur Brayton"")",male$$SClearning work is going on,,0.0,0.0,111427,26.55,,S
+,,,,,,,,,,,
+510.0,1.0,3.0,"Lang, Mr. Fang",male$$SClearning work is going on,26.0,0.0,0.0,1601,56.4958,,S
+511.0,1.0,3.0,"Daly, Mr. Eugene Patrick",male$$QClearning work is going on,29.0,0.0,0.0,382651,7.75,,Q
+,,,,,,,,,,,
+513.0,1.0,1.0,"McGough, Mr. James Robert",male$$SClearning work is going on,36.0,0.0,0.0,PC 17473,26.2875,E25,S
+514.0,1.0,1.0,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female$$CClearning work is going on,54.0,1.0,0.0,PC 17603,59.4,,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+517.0,1.0,2.0,"Lemore, Mrs. (Amelia Milley)",female$$SClearning work is going on,34.0,0.0,0.0,C.A. 34260,10.5,F33,S
+,,,,,,,,,,,
+519.0,1.0,2.0,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female$$SClearning work is going on,36.0,1.0,0.0,226875,26.0,,S
+,,,,,,,,,,,
+521.0,1.0,1.0,"Perreault, Miss. Anne",female$$SClearning work is going on,30.0,0.0,0.0,12749,93.5,B73,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+524.0,1.0,1.0,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female$$CClearning work is going on,44.0,0.0,1.0,111361,57.9792,B18,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+527.0,1.0,2.0,"Ridsdale, Miss. Lucy",female$$SClearning work is going on,50.0,0.0,0.0,W./C. 14258,10.5,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+531.0,1.0,2.0,"Quick, Miss. Phyllis May",female$$SClearning work is going on,2.0,1.0,1.0,26360,26.0,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+534.0,1.0,3.0,"Peter, Mrs. Catherine (Catherine Rizk)",female$$CClearning work is going on,,0.0,2.0,2668,22.3583,,C
+,,,,,,,,,,,
+536.0,1.0,2.0,"Hart, Miss. Eva Miriam",female$$SClearning work is going on,7.0,0.0,2.0,F.C.C. 13529,26.25,,S
+,,,,,,,,,,,
+538.0,1.0,1.0,"LeRoy, Miss. Bertha",female$$CClearning work is going on,30.0,0.0,0.0,PC 17761,106.425,,C
+,,,,,,,,,,,
+540.0,1.0,1.0,"Frolicher, Miss. Hedwig Margaritha",female$$CClearning work is going on,22.0,0.0,2.0,13568,49.5,B39,C
+541.0,1.0,1.0,"Crosby, Miss. Harriet R",female$$SClearning work is going on,36.0,0.0,2.0,WE/P 5735,71.0,B22,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+544.0,1.0,2.0,"Beane, Mr. Edward",male$$SClearning work is going on,32.0,1.0,0.0,2908,26.0,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+547.0,1.0,2.0,"Beane, Mrs. Edward (Ethel Clarke)",female$$SClearning work is going on,19.0,1.0,0.0,2908,26.0,,S
+548.0,1.0,2.0,"Padro y Manent, Mr. Julian",male$$CClearning work is going on,,0.0,0.0,SC/PARIS 2146,13.8625,,C
+,,,,,,,,,,,
+550.0,1.0,2.0,"Davies, Master. John Morgan Jr",male$$SClearning work is going on,8.0,1.0,1.0,C.A. 33112,36.75,,S
+551.0,1.0,1.0,"Thayer, Mr. John Borland Jr",male$$CClearning work is going on,17.0,0.0,2.0,17421,110.8833,C70,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+554.0,1.0,3.0,"Leeni, Mr. Fahim (""Philip Zenni"")",male$$CClearning work is going on,22.0,0.0,0.0,2620,7.225,,C
+555.0,1.0,3.0,"Ohman, Miss. Velin",female$$SClearning work is going on,22.0,0.0,0.0,347085,7.775,,S
+,,,,,,,,,,,
+557.0,1.0,1.0,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female$$CClearning work is going on,48.0,1.0,0.0,11755,39.6,A16,C
+,,,,,,,,,,,
+559.0,1.0,1.0,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female$$SClearning work is going on,39.0,1.0,1.0,110413,79.65,E67,S
+560.0,1.0,3.0,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female$$SClearning work is going on,36.0,1.0,0.0,345572,17.4,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+570.0,1.0,3.0,"Jonsson, Mr. Carl",male$$SClearning work is going on,32.0,0.0,0.0,350417,7.8542,,S
+571.0,1.0,2.0,"Harris, Mr. George",male$$SClearning work is going on,62.0,0.0,0.0,S.W./PP 752,10.5,,S
+572.0,1.0,1.0,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female$$SClearning work is going on,53.0,2.0,0.0,11769,51.4792,C101,S
+573.0,1.0,1.0,"Flynn, Mr. John Irwin (""Irving"")",male$$SClearning work is going on,36.0,0.0,0.0,PC 17474,26.3875,E25,S
+574.0,1.0,3.0,"Kelly, Miss. Mary",female$$QClearning work is going on,,0.0,0.0,14312,7.75,,Q
+,,,,,,,,,,,
+,,,,,,,,,,,
+577.0,1.0,2.0,"Garside, Miss. Ethel",female$$SClearning work is going on,34.0,0.0,0.0,243880,13.0,,S
+578.0,1.0,1.0,"Silvey, Mrs. William Baird (Alice Munger)",female$$SClearning work is going on,39.0,1.0,0.0,13507,55.9,E44,S
+,,,,,,,,,,,
+580.0,1.0,3.0,"Jussila, Mr. Eiriik",male$$SClearning work is going on,32.0,0.0,0.0,STON/O 2. 3101286,7.925,,S
+581.0,1.0,2.0,"Christy, Miss. Julie Rachel",female$$SClearning work is going on,25.0,1.0,1.0,237789,30.0,,S
+582.0,1.0,1.0,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female$$CClearning work is going on,39.0,1.0,1.0,17421,110.8833,C68,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+586.0,1.0,1.0,"Taussig, Miss. Ruth",female$$SClearning work is going on,18.0,0.0,2.0,110413,79.65,E68,S
+,,,,,,,,,,,
+588.0,1.0,1.0,"Frolicher-Stehli, Mr. Maxmillian",male$$CClearning work is going on,60.0,1.0,1.0,13567,79.2,B41,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+592.0,1.0,1.0,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female$$CClearning work is going on,52.0,1.0,0.0,36947,78.2667,D20,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+597.0,1.0,2.0,"Leitch, Miss. Jessie Wills",female$$SClearning work is going on,,0.0,0.0,248727,33.0,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+600.0,1.0,1.0,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male$$CClearning work is going on,49.0,1.0,0.0,PC 17485,56.9292,A20,C
+601.0,1.0,2.0,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female$$SClearning work is going on,24.0,2.0,1.0,243847,27.0,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+605.0,1.0,1.0,"Homer, Mr. Harry (""Mr E Haven"")",male$$CClearning work is going on,35.0,0.0,0.0,111426,26.55,,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+608.0,1.0,1.0,"Daniel, Mr. Robert Williams",male$$SClearning work is going on,27.0,0.0,0.0,113804,30.5,,S
+609.0,1.0,2.0,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female$$CClearning work is going on,22.0,1.0,2.0,SC/Paris 2123,41.5792,,C
+610.0,1.0,1.0,"Shutes, Miss. Elizabeth W",female$$SClearning work is going on,40.0,0.0,0.0,PC 17582,153.4625,C125,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+613.0,1.0,3.0,"Murphy, Miss. Margaret Jane",female$$QClearning work is going on,,1.0,0.0,367230,15.5,,Q
+,,,,,,,,,,,
+,,,,,,,,,,,
+616.0,1.0,2.0,"Herman, Miss. Alice",female$$SClearning work is going on,24.0,1.0,2.0,220845,65.0,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+619.0,1.0,2.0,"Becker, Miss. Marion Louise",female$$SClearning work is going on,4.0,2.0,1.0,230136,39.0,F4,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+622.0,1.0,1.0,"Kimball, Mr. Edwin Nelson Jr",male$$SClearning work is going on,42.0,1.0,0.0,11753,52.5542,D19,S
+623.0,1.0,3.0,"Nakid, Mr. Sahid",male$$CClearning work is going on,20.0,1.0,1.0,2653,15.7417,,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+628.0,1.0,1.0,"Longley, Miss. Gretchen Fiske",female$$SClearning work is going on,21.0,0.0,0.0,13502,77.9583,D9,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+631.0,1.0,1.0,"Barkworth, Mr. Algernon Henry Wilson",male$$SClearning work is going on,80.0,0.0,0.0,27042,30.0,A23,S
+,,,,,,,,,,,
+633.0,1.0,1.0,"Stahelin-Maeglin, Dr. Max",male$$CClearning work is going on,32.0,0.0,0.0,13214,30.5,B50,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+636.0,1.0,2.0,"Davis, Miss. Mary",female$$SClearning work is going on,28.0,0.0,0.0,237668,13.0,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+642.0,1.0,1.0,"Sagesser, Mlle. Emma",female$$CClearning work is going on,24.0,0.0,0.0,PC 17477,69.3,B35,C
+,,,,,,,,,,,
+644.0,1.0,3.0,"Foo, Mr. Choong",male$$SClearning work is going on,,0.0,0.0,1601,56.4958,,S
+645.0,1.0,3.0,"Baclini, Miss. Eugenie",female$$CClearning work is going on,0.75,2.0,1.0,2666,19.2583,,C
+646.0,1.0,1.0,"Harper, Mr. Henry Sleeper",male$$CClearning work is going on,48.0,1.0,0.0,PC 17572,76.7292,D33,C
+,,,,,,,,,,,
+648.0,1.0,1.0,"Simonius-Blumer, Col. Oberst Alfons",male$$CClearning work is going on,56.0,0.0,0.0,13213,35.5,A26,C
+,,,,,,,,,,,
+650.0,1.0,3.0,"Stanley, Miss. Amy Zillah Elsie",female$$SClearning work is going on,23.0,0.0,0.0,CA. 2314,7.55,,S
+,,,,,,,,,,,
+652.0,1.0,2.0,"Doling, Miss. Elsie",female$$SClearning work is going on,18.0,0.0,1.0,231919,23.0,,S
+,,,,,,,,,,,
+654.0,1.0,3.0,"O'Leary, Miss. Hanora ""Norah""",female$$QClearning work is going on,,0.0,0.0,330919,7.8292,,Q
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+661.0,1.0,1.0,"Frauenthal, Dr. Henry William",male$$SClearning work is going on,50.0,2.0,0.0,PC 17611,133.65,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+665.0,1.0,3.0,"Lindqvist, Mr. Eino William",male$$SClearning work is going on,20.0,1.0,0.0,STON/O 2. 3101285,7.925,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+670.0,1.0,1.0,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female$$SClearning work is going on,,1.0,0.0,19996,52.0,C126,S
+671.0,1.0,2.0,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female$$SClearning work is going on,40.0,1.0,1.0,29750,39.0,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+674.0,1.0,2.0,"Wilhelms, Mr. Charles",male$$SClearning work is going on,31.0,0.0,0.0,244270,13.0,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+678.0,1.0,3.0,"Turja, Miss. Anna Sofia",female$$SClearning work is going on,18.0,0.0,0.0,4138,9.8417,,S
+,,,,,,,,,,,
+680.0,1.0,1.0,"Cardeza, Mr. Thomas Drake Martinez",male$$CClearning work is going on,36.0,0.0,1.0,PC 17755,512.3292,B51 B53 B55,C
+,,,,,,,,,,,
+682.0,1.0,1.0,"Hassab, Mr. Hammad",male$$CClearning work is going on,27.0,0.0,0.0,PC 17572,76.7292,D49,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+690.0,1.0,1.0,"Madill, Miss. Georgette Alexandra",female$$SClearning work is going on,15.0,0.0,1.0,24160,211.3375,B5,S
+691.0,1.0,1.0,"Dick, Mr. Albert Adrian",male$$SClearning work is going on,31.0,1.0,0.0,17474,57.0,B20,S
+692.0,1.0,3.0,"Karun, Miss. Manca",female$$CClearning work is going on,4.0,0.0,1.0,349256,13.4167,,C
+693.0,1.0,3.0,"Lam, Mr. Ali",male$$SClearning work is going on,,0.0,0.0,1601,56.4958,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+698.0,1.0,3.0,"Mullens, Miss. Katherine ""Katie""",female$$QClearning work is going on,,0.0,0.0,35852,7.7333,,Q
+,,,,,,,,,,,
+,,,,,,,,,,,
+701.0,1.0,1.0,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female$$CClearning work is going on,18.0,1.0,0.0,PC 17757,227.525,C62 C64,C
+702.0,1.0,1.0,"Silverthorne, Mr. Spencer Victor",male$$SClearning work is going on,35.0,0.0,0.0,PC 17475,26.2875,E24,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+707.0,1.0,2.0,"Kelly, Mrs. Florence ""Fannie""",female$$SClearning work is going on,45.0,0.0,0.0,223596,13.5,,S
+708.0,1.0,1.0,"Calderhead, Mr. Edward Pennington",male$$SClearning work is going on,42.0,0.0,0.0,PC 17476,26.2875,E24,S
+709.0,1.0,1.0,"Cleaver, Miss. Alice",female$$SClearning work is going on,22.0,0.0,0.0,113781,151.55,,S
+710.0,1.0,3.0,"Moubarek, Master. Halim Gonios (""William George"")",male$$CClearning work is going on,,1.0,1.0,2661,15.2458,,C
+711.0,1.0,1.0,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female$$CClearning work is going on,24.0,0.0,0.0,PC 17482,49.5042,C90,C
+,,,,,,,,,,,
+713.0,1.0,1.0,"Taylor, Mr. Elmer Zebley",male$$SClearning work is going on,48.0,1.0,0.0,19996,52.0,C126,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+717.0,1.0,1.0,"Endres, Miss. Caroline Louise",female$$CClearning work is going on,38.0,0.0,0.0,PC 17757,227.525,C45,C
+718.0,1.0,2.0,"Troutt, Miss. Edwina Celia ""Winnie""",female$$SClearning work is going on,27.0,0.0,0.0,34218,10.5,E101,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+721.0,1.0,2.0,"Harper, Miss. Annie Jessie ""Nina""",female$$SClearning work is going on,6.0,0.0,1.0,248727,33.0,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+725.0,1.0,1.0,"Chambers, Mr. Norman Campbell",male$$SClearning work is going on,27.0,1.0,0.0,113806,53.1,E8,S
+,,,,,,,,,,,
+727.0,1.0,2.0,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female$$SClearning work is going on,30.0,3.0,0.0,31027,21.0,,S
+728.0,1.0,3.0,"Mannion, Miss. Margareth",female$$QClearning work is going on,,0.0,0.0,36866,7.7375,,Q
+,,,,,,,,,,,
+,,,,,,,,,,,
+731.0,1.0,1.0,"Allen, Miss. Elisabeth Walton",female$$SClearning work is going on,29.0,0.0,0.0,24160,211.3375,B5,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+738.0,1.0,1.0,"Lesurer, Mr. Gustave J",male$$CClearning work is going on,35.0,0.0,0.0,PC 17755,512.3292,B101,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+741.0,1.0,1.0,"Hawksford, Mr. Walter James",male$$SClearning work is going on,,0.0,0.0,16988,30.0,D45,S
+,,,,,,,,,,,
+743.0,1.0,1.0,"Ryerson, Miss. Susan Parker ""Suzette""",female$$CClearning work is going on,21.0,2.0,2.0,PC 17608,262.375,B57 B59 B63 B66,C
+,,,,,,,,,,,
+745.0,1.0,3.0,"Stranden, Mr. Juho",male$$SClearning work is going on,31.0,0.0,0.0,STON/O 2. 3101288,7.925,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+748.0,1.0,2.0,"Sinkkonen, Miss. Anna",female$$SClearning work is going on,30.0,0.0,0.0,250648,13.0,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+751.0,1.0,2.0,"Wells, Miss. Joan",female$$SClearning work is going on,4.0,1.0,1.0,29103,23.0,,S
+752.0,1.0,3.0,"Moor, Master. Meier",male$$SClearning work is going on,6.0,0.0,1.0,392096,12.475,E121,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+755.0,1.0,2.0,"Herman, Mrs. Samuel (Jane Laver)",female$$SClearning work is going on,48.0,1.0,2.0,220845,65.0,,S
+756.0,1.0,2.0,"Hamalainen, Master. Viljo",male$$SClearning work is going on,0.67,1.0,1.0,250649,14.5,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+760.0,1.0,1.0,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female$$SClearning work is going on,33.0,0.0,0.0,110152,86.5,B77,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+763.0,1.0,3.0,"Barah, Mr. Hanna Assi",male$$CClearning work is going on,20.0,0.0,0.0,2663,7.2292,,C
+764.0,1.0,1.0,"Carter, Mrs. William Ernest (Lucile Polk)",female$$SClearning work is going on,36.0,1.0,2.0,113760,120.0,B96 B98,S
+,,,,,,,,,,,
+766.0,1.0,1.0,"Hogeboom, Mrs. John C (Anna Andrews)",female$$SClearning work is going on,51.0,1.0,0.0,13502,77.9583,D11,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+775.0,1.0,2.0,"Hocking, Mrs. Elizabeth (Eliza Needs)",female$$SClearning work is going on,54.0,1.0,3.0,29105,23.0,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+778.0,1.0,3.0,"Emanuel, Miss. Virginia Ethel",female$$SClearning work is going on,5.0,0.0,0.0,364516,12.475,,S
+,,,,,,,,,,,
+780.0,1.0,1.0,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female$$SClearning work is going on,43.0,0.0,1.0,24160,211.3375,B3,S
+781.0,1.0,3.0,"Ayoub, Miss. Banoura",female$$CClearning work is going on,13.0,0.0,0.0,2687,7.2292,,C
+782.0,1.0,1.0,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female$$SClearning work is going on,17.0,1.0,0.0,17474,57.0,B20,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+787.0,1.0,3.0,"Sjoblom, Miss. Anna Sofia",female$$SClearning work is going on,18.0,0.0,0.0,3101265,7.4958,,S
+,,,,,,,,,,,
+789.0,1.0,3.0,"Dean, Master. Bertram Vere",male$$SClearning work is going on,1.0,1.0,2.0,C.A. 2315,20.575,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+797.0,1.0,1.0,"Leader, Dr. Alice (Farnham)",female$$SClearning work is going on,49.0,0.0,0.0,17465,25.9292,D17,S
+798.0,1.0,3.0,"Osman, Mrs. Mara",female$$SClearning work is going on,31.0,0.0,0.0,349244,8.6833,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+802.0,1.0,2.0,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female$$SClearning work is going on,31.0,1.0,1.0,C.A. 31921,26.25,,S
+803.0,1.0,1.0,"Carter, Master. William Thornton II",male$$SClearning work is going on,11.0,1.0,2.0,113760,120.0,B96 B98,S
+804.0,1.0,3.0,"Thomas, Master. Assad Alexander",male$$CClearning work is going on,0.42,0.0,1.0,2625,8.5167,,C
+805.0,1.0,3.0,"Hedman, Mr. Oskar Arvid",male$$SClearning work is going on,27.0,0.0,0.0,347089,6.975,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+810.0,1.0,1.0,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female$$SClearning work is going on,33.0,1.0,0.0,113806,53.1,E8,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+821.0,1.0,1.0,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female$$SClearning work is going on,52.0,1.0,1.0,12749,93.5,B69,S
+822.0,1.0,3.0,"Lulic, Mr. Nikola",male$$SClearning work is going on,27.0,0.0,0.0,315098,8.6625,,S
+,,,,,,,,,,,
+824.0,1.0,3.0,"Moor, Mrs. (Beila)",female$$SClearning work is going on,27.0,0.0,1.0,392096,12.475,E121,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+828.0,1.0,2.0,"Mallet, Master. Andre",male$$CClearning work is going on,1.0,0.0,2.0,S.C./PARIS 2079,37.0042,,C
+829.0,1.0,3.0,"McCormack, Mr. Thomas Joseph",male$$QClearning work is going on,,0.0,0.0,367228,7.75,,Q
+830.0,1.0,1.0,"Stone, Mrs. George Nelson (Martha Evelyn)",,62.0,0.0,0.0,113572,80.0,B28,
+831.0,1.0,3.0,"Yasbeck, Mrs. Antoni (Selini Alexander)",female$$CClearning work is going on,15.0,1.0,0.0,2659,14.4542,,C
+832.0,1.0,2.0,"Richards, Master. George Sibley",male$$SClearning work is going on,0.83,1.0,1.0,29106,18.75,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+836.0,1.0,1.0,"Compton, Miss. Sara Rebecca",female$$CClearning work is going on,39.0,1.0,1.0,PC 17756,83.1583,E49,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+839.0,1.0,3.0,"Chip, Mr. Chang",male$$SClearning work is going on,32.0,0.0,0.0,1601,56.4958,,S
+840.0,1.0,1.0,"Marechal, Mr. Pierre",male$$CClearning work is going on,,0.0,0.0,11774,29.7,C47,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+843.0,1.0,1.0,"Serepeca, Miss. Augusta",female$$CClearning work is going on,30.0,0.0,0.0,113798,31.0,,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+850.0,1.0,1.0,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female$$CClearning work is going on,,1.0,0.0,17453,89.1042,C92,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+854.0,1.0,1.0,"Lines, Miss. Mary Conover",female$$SClearning work is going on,16.0,0.0,1.0,PC 17592,39.4,D28,S
+,,,,,,,,,,,
+856.0,1.0,3.0,"Aks, Mrs. Sam (Leah Rosen)",female$$SClearning work is going on,18.0,0.0,1.0,392091,9.35,,S
+857.0,1.0,1.0,"Wick, Mrs. George Dennick (Mary Hitchcock)",female$$SClearning work is going on,45.0,1.0,1.0,36928,164.8667,,S
+858.0,1.0,1.0,"Daly, Mr. Peter Denis ",male$$SClearning work is going on,51.0,0.0,0.0,113055,26.55,E17,S
+859.0,1.0,3.0,"Baclini, Mrs. Solomon (Latifa Qurban)",female$$CClearning work is going on,24.0,0.0,3.0,2666,19.2583,,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+863.0,1.0,1.0,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female$$SClearning work is going on,48.0,0.0,0.0,17466,25.9292,D17,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+866.0,1.0,2.0,"Bystrom, Mrs. (Karolina)",female$$SClearning work is going on,42.0,0.0,0.0,236852,13.0,,S
+867.0,1.0,2.0,"Duran y More, Miss. Asuncion",female$$CClearning work is going on,27.0,1.0,0.0,SC/PARIS 2149,13.8583,,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+870.0,1.0,3.0,"Johnson, Master. Harold Theodor",male$$SClearning work is going on,4.0,1.0,1.0,347742,11.1333,,S
+,,,,,,,,,,,
+872.0,1.0,1.0,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female$$SClearning work is going on,47.0,1.0,1.0,11751,52.5542,D35,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+875.0,1.0,2.0,"Abelson, Mrs. Samuel (Hannah Wizosky)",female$$CClearning work is going on,28.0,1.0,0.0,P/PP 3381,24.0,,C
+876.0,1.0,3.0,"Najib, Miss. Adele Kiamie ""Jane""",female$$CClearning work is going on,15.0,0.0,0.0,2667,7.225,,C
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+880.0,1.0,1.0,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female$$CClearning work is going on,56.0,0.0,1.0,11767,83.1583,C50,C
+881.0,1.0,2.0,"Shelley, Mrs. William (Imanita Parrish Hall)",female$$SClearning work is going on,25.0,0.0,1.0,230433,26.0,,S
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+888.0,1.0,1.0,"Graham, Miss. Margaret Edith",female$$SClearning work is going on,19.0,0.0,0.0,112053,30.0,B42,S
+,,,,,,,,,,,
+890.0,1.0,1.0,"Behr, Mr. Karl Howell",male$$CClearning work is going on,26.0,0.0,0.0,111369,30.0,C148,C
+,,,,,,,,,,,
